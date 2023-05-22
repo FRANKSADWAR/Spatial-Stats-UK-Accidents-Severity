@@ -31,6 +31,8 @@ The data was then geo-referenced to WGS 84 (EPSG:4326) and overlayed on-top of t
 ## Analysis Carried out
 
 1. Measure of centography
+
+![/home/billy/Documents/BigData_analysis/Screenshot from 2023-05-22 12-44-33.png]
 2. Measure of dispersion
 3. Clustering analysis: K-Means and Spatial DBSCAN
 4. Spatial auto-correlation (Global and Local Moran's I)
